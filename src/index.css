@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+th, td {
+  border: 1px solid black;
+}
+table{
+  border: 1px solid black;
+  width: 100%;
+  height: auto;
+  margin-left:0px;
+  margin-right: 0px;
+} 
+#searchButton{
+  margin-left: 10vw;
+  margin-top:5vw;
+}
+#exportButton{
+  margin-left:1vw;
+  margin-right:1vw;
+}
+
+.App{
+
+  width: 70vw;
+  height: auto;
+  margin: 0 auto;
+} 
